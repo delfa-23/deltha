@@ -1,0 +1,3 @@
+D:\project\Deltha\obj\publish-verify\DelthaSetup.pdb
+D:\project\Deltha\obj\publish-verify\version.json
+D:\project\Deltha\obj\publish-verify\DelthaSetup.exe
